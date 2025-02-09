@@ -34,6 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="adobexd" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 
+<h3> 🚀 &nbsp;Listening to</h3>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
  
 </p>
