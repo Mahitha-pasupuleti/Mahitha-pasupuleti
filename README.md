@@ -2,6 +2,12 @@
 
 <p><em>Teaching Assistant at California State University, Fullerton</em></p>
 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mahitha-pasupuleti/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="15" height="15"  /></a>
+</p>
+          
+
 [![Linkedin: Mahitha](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mahitha-pasupuleti/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
