@@ -1,5 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> శుభోదయం (Good Morning)🙏🏻, I'm Mahitha Pasupuleti! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+<p><em>Teaching Assistant at California State University, Fullerton<a href="https://fliki.ai/">Fliki AI
+
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
 - 👯 I’m looking to collaborate on open-source and innovative projects
