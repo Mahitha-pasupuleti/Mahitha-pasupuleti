@@ -15,7 +15,6 @@
 - 💬 Ask me about Frontend, Backend, problem-solving, and mentoring
 - 📫 How to reach me: dm me on LinkedIn
 - ⚡ Fun fact: I love optimizing code for performance as much as I enjoy a good mystery novel!
-- 👩🏻‍🏫
 -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -86,7 +85,7 @@ const mahitha = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 -->
 
-<h3> <img src="images/bunmusicq.gif" /> &nbsp;Listening to </h3>
+### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
