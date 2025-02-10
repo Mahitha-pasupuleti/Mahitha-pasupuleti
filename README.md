@@ -18,7 +18,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const mahitha = {
     pronouns: "She" | "Her",
     code: ["Java", "Javascript", "Python", "C", "C++"],
     askMeAbout: ["Web Development", "UI/UX design", "AI/ML", "Problem-solving"],
