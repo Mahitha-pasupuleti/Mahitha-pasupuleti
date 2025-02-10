@@ -21,11 +21,10 @@
 
 ```javascript
 const mahitha = {
-    pronouns: "She/Her",
-    code: ["Java", "JavaScript", "Python", "C", "C++"],
+    languages: ["Java", "JavaScript", "Python", "C", "C++"],
     askMeAbout: ["Web Development", "UI/UX Design", "AI/ML", "Problem-Solving"],
     
-    technologies: {
+    dev: {
         frontEnd: {
             js: ["React.js"],
             css: ["Bootstrap"],
@@ -38,19 +37,20 @@ const mahitha = {
             python: ["Django", "Flask"],
         },
         devOps: ["Docker 🐳", "CI/CD", "GitHub Actions"],
-        cloudServices: {
-            azure: ["Virtual Machines", "Blob Storage", "Functions", "Monitor", "Cosmos DB", "Azure SQL"],
-            databricks: ["Delta Lake", "MLflow", "Databricks SQL", "Apache Spark", "Apache Kafka", "Unity Catalog"]
-        },
         databases: ["MongoDB", "MySQL", "Redis"],
-        misc: ["REST APIs", "WebSockets"],
+    },
+
+    cloudServices: {
+        azure: ["Virtual Machines", "Blob Storage", "Functions", "Monitor", "Cosmos DB", "Azure SQL"],
+        databricks: ["Delta Lake", "MLflow", "Databricks SQL", "Apache Spark", "Apache Kafka", "Unity Catalog"]
     },
     
     architecture: {
         backEnd: ["Microservices", "Monolithic"],
         databases: ["Relational", "NoSQL", "In-Memory"],
+        api: ["REST APIs", "WebSockets"],
     },
-    
+
     currentFocus: "Currently working on AI/ML-driven applications.",
     funFact: "I love optimizing code for performance as much as I enjoy a good book!",
     lookingFor: "I’m looking to collaborate on open-source and innovative projects"
