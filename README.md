@@ -4,7 +4,7 @@
 
 <h5>
   <code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="27" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000">Instagram</a></code>
+  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="27" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Instagram</a></code>
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h5>
 
