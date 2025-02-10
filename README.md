@@ -8,12 +8,16 @@
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h6>
 
+<br />
+
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
 - 👯 I’m looking to collaborate on open-source and innovative projects
 - 💬 Ask me about Frontend, Backend, problem-solving, and mentoring
 - 📫 How to reach me: dm me on LinkedIn
 - ⚡ Fun fact: I love optimizing code for performance as much as I enjoy a good mystery novel!
+
+<br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -79,10 +83,16 @@ const mahitha = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="left">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
- 
+<p align="right">
+<h3> <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true?theme=dracula&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</h3>
 </p>
