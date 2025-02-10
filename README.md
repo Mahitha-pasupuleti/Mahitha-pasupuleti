@@ -8,48 +8,55 @@
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h5>
 
+<!--
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
 - 👯 I’m looking to collaborate on open-source and innovative projects
 - 💬 Ask me about Frontend, Backend, problem-solving, and mentoring
 - 📫 How to reach me: dm me on LinkedIn
 - ⚡ Fun fact: I love optimizing code for performance as much as I enjoy a good mystery novel!
+-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const mahitha = {
-    pronouns: "She" | "Her",
-    code: ["Java", "Javascript", "Python", "C", "C++"],
-    askMeAbout: ["Web Development", "UI/UX design", "AI/ML", "Problem-solving"],
+    pronouns: "She/Her",
+    code: ["Java", "JavaScript", "Python", "C", "C++"],
+    askMeAbout: ["Web Development", "UI/UX Design", "AI/ML", "Problem-Solving"],
+    
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["React.js"],
             css: ["Bootstrap"],
+            tools: ["AdobeXD", "Figma"],
             uiLibraries: ["Material UI"],
         },
         backEnd: {
-            js: ["Node", "Express"],
-            java: ["Spring-boot"],
+            js: ["Node.js", "Express.js"],
+            java: ["SpringBoot"],
             python: ["Django", "Flask"],
         },
-        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
+        devOps: ["Docker 🐳", "CI/CD", "GitHub Actions"],
         cloudServices: {
-            azure: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-            databricks : []
+            azure: ["Virtual Machines", "Blob Storage", "Functions", "Monitor", "Cosmos DB", "Azure SQL"],
+            databricks: ["Delta Lake", "MLflow", "Databricks SQL", "Apache Spark", "Apache Kafka", "Unity Catalog"]
         },
-        databases: ["MongoDB", "MySQL", "redis"],
+        databases: ["MongoDB", "MySQL", "Redis"],
         misc: ["REST APIs", "WebSockets"],
     },
+    
     architecture: {
-        backEnd: ["microservices", "monolithic"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+        backEnd: ["Microservices", "Monolithic"],
+        databases: ["Relational", "NoSQL", "In-Memory"],
     },
-    currentFocus: "Currently working on AI/ML-driven applications",
-    funFact: "I love optimizing code for performance as much as I enjoy a good book!"
+    
+    currentFocus: "Currently working on AI/ML-driven applications.",
+    funFact: "I love optimizing code for performance as much as I enjoy a good book!",
+    lookingFor: "I’m looking to collaborate on open-source and innovative projects"
 };
 ```
-
+<!--
 <h3> 🚀 &nbsp;Some Languages and Stack I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
@@ -76,6 +83,7 @@ const mahitha = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="adobexd" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
+-->
 
 <h3> 🚀 &nbsp;Listening to </h3>
 
