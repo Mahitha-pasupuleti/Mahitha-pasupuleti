@@ -8,6 +8,10 @@
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h6>
 
+<strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
