@@ -85,6 +85,9 @@ const mahitha = {
 
 <h3><img src="images/clapclap-e.gif" width="30" /> Inspired by...</h3>
 
+- <a href="https://github.com/anmol098/anmol098">Anmol Singh</a>
+- <a href="https://github.com/PiyushSuthar/github-readme-quotes">Piyush Suthar</a>
+
 <!--
 ### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
 
