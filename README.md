@@ -1,12 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> శుభోదయం (Good Morning)🙏🏻, I'm Mahitha Pasupuleti! </h2>
 
-<h4><em>Teaching Assistant at California State University, Fullerton</em></h4>
+<h4><img src="images/teaching.gif" width="40"><em> Teaching Assistant at California State University, Fullerton</em></h4>
 
-<h5>
-  <code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="27" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Instagram</a></code>
-  <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
-</h5>
+<h6>
+  <code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/" title="LinkedIn Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="25" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Instagram</a></code>
+  <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
+</h6>
 
 <!--
 - 🔭 I’m currently working on AI/ML-driven applications
@@ -86,7 +86,7 @@ const mahitha = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 -->
 
-<h3> 🚀 &nbsp;Listening to </h3>
+<h3> <img src="images/bunmusicq.gif" /> &nbsp;Listening to </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
