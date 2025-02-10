@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> శుభోదయం (Good Morning)🙏🏻, I'm Mahitha Pasupuleti! </h2>
 
-<p><em>Teaching Assistant at California State University, Fullerton</em></p>
+<h4><em>Teaching Assistant at California State University, Fullerton</em></h4>
 
 <h5>
   <code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
@@ -15,6 +15,7 @@
 - 💬 Ask me about Frontend, Backend, problem-solving, and mentoring
 - 📫 How to reach me: dm me on LinkedIn
 - ⚡ Fun fact: I love optimizing code for performance as much as I enjoy a good mystery novel!
+- 👩🏻‍🏫
 -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -71,7 +72,7 @@ const mahitha = {
           
 </p>
 
-<h3> 🚀 &nbsp;Some I Have Used and Learned</h3>
+<h3> 🎸 &nbsp;Some I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45" />
