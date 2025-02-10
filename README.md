@@ -4,19 +4,9 @@
 
 <h5>
   <code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="27" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/pasupuleti_mahitha/" title="Instagram Profile"><img width="27" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000">Instagram</a></code>
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h5>
-
-<p align="left">
-<code><a href="https://www.linkedin.com/in/mahitha-pasupuleti/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="22" height="22"  /> LinkedIn</a></p></code>
-</p>
-          
-
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
