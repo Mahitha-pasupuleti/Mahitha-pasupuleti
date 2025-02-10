@@ -15,6 +15,41 @@
 - 📫 How to reach me: dm me on LinkedIn
 - ⚡ Fun fact: I love optimizing code for performance as much as I enjoy a good mystery novel!
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "She" | "Her",
+    code: ["Java", "Javascript", "Python", "C", "C++"],
+    askMeAbout: ["Web Development", "UI/UX design", "AI/ML", "Problem-solving"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Bootstrap"],
+            uiLibraries: ["Material UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            java: ["Spring-boot"],
+            python: ["Django", "Flask"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
+        cloudServices: {
+            azure: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+            databricks : []
+        },
+        databases: ["MongoDB", "MySQL", "redis"],
+        misc: ["REST APIs", "WebSockets"],
+    },
+    architecture: {
+        backEnd: ["microservices", "monolithic"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Currently working on AI/ML-driven applications",
+    funFact: "I love optimizing code for performance as much as I enjoy a good book!"
+};
+```
+
 <h3> 🚀 &nbsp;Some Languages and Stack I Have Used and Learned</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
