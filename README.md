@@ -52,6 +52,9 @@ const mahitha = {
 
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 <!--
 <h3> 🚀 &nbsp;Some Languages and Stack I Have Used and Learned</h3>
 <p align="left">
