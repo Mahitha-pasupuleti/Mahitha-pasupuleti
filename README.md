@@ -81,11 +81,9 @@ const mahitha = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45" />
 -->
 
-<p align="left">
-  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</p>
+<h3><img src="images/clapclap-e.gif" width="30" /> Inspired by...</h3>
 
 <!--
 ### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
