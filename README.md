@@ -84,12 +84,14 @@ const mahitha = {
 <h3><img src="images/quote-open.png" width="30" /> Quote of the day...</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+
 <h3><img src="images/clapclap-e.gif" width="30" /> Inspired by...</h3>
 
 - <a href="https://github.com/anmol098/anmol098">Anmol Singh</a>
 - <a href="https://github.com/PiyushSuthar/github-readme-quotes">Piyush Suthar</a>
 
--->
+
 <!--
 ### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
 
