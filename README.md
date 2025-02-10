@@ -8,8 +8,6 @@
   <code><a href="https://www.behance.net/mahithapasupuleti" title="Behance Profile"><img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"> Behance</a></code>
 </h6>
 
-<br />
-
 - 🔭 I’m currently working on AI/ML-driven applications
 - 🌱 I’m currently learning to build scalable applications
 - 👯 I’m looking to collaborate on open-source and innovative projects
@@ -89,6 +87,8 @@ const mahitha = {
 
 </p>
 
+<!--
 ### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true?theme=dracula&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
