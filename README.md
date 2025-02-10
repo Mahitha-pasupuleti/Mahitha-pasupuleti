@@ -89,10 +89,6 @@ const mahitha = {
 
 </p>
 
-<p align="right">
-<h3> <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
+### <img src="images/bunmusicq.gif" width="30" /> &nbsp;Currently listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jojgnkvnewx4tdhv22ei76ashm&cover_image=true?theme=dracula&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</h3>
-</p>
