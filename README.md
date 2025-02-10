@@ -1,4 +1,4 @@
-<h2><img src="images/party_blob.gif" width="30"/> శుభదినం (Good Day)🙏🏻, I'm Mahitha Pasupuleti! </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> శుభదినం (Good Day)🙏🏻, I'm Mahitha Pasupuleti! </h2>
 
 <h4><img src="images/teaching.gif" width="40"><em> Teaching Assistant at California State University, Fullerton</em></h4>
 
@@ -83,7 +83,6 @@ const mahitha = {
 <h3><img src="images/quote-open.png" width="30" /> Quote of the day...</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <h3><img src="images/clapclap-e.gif" width="30" /> Inspired by...</h3>
 
 - <a href="https://github.com/anmol098/anmol098">Anmol Singh</a>
